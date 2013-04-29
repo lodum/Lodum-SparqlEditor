@@ -1,0 +1,21 @@
+.CodeMirror {
+	border: 1px solid black; 
+	border-bottom: 1px solid black;
+}
+	
+.activeline {
+	background: #f0fcff !important;
+}
+
+.sparql-results a:link, .sparql-results a:visited{
+	color: #3366cc;
+}
+
+.sparql-results a:hover{
+	color: #3333cc;
+} 
+
+.sparql-results td{
+	padding-right: 20px;
+}
+
